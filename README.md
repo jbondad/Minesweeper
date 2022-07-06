@@ -2,13 +2,13 @@
 
 Minesweeper built using Javascript, HTML and CSS. 
 
-![chatapp](https://user-images.githubusercontent.com/108786345/177487776-e69b3e2d-b77e-4648-959f-fe933ad64b94.PNG)
+![minesweep](https://user-images.githubusercontent.com/108786345/177490563-1982c384-2ccc-4d46-8bb4-eb99cf08e861.PNG)
 
 
 <!-- GETTING STARTED -->
 ## Access
  
-Play here [httpjs](https://jbondad.github.io/Minesweeper/)
+Play here https://jbondad.github.io/Minesweeper/
 
 
 
