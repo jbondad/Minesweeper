@@ -11,6 +11,7 @@ Minesweeper built using Javascript, HTML and CSS.
 Play here https://jbondad.github.io/Minesweeper/
 
 Click to reveal a tile
+
 Click and hold to add a flag
 
 
